@@ -1,0 +1,28 @@
+Flat profile:
+
+Each sample counts as 0.01 seconds.
+ no time accumulated
+
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  Ts/call  Ts/call  name    
+  0.00      0.00     0.00        1     0.00     0.00  __static_initialization_and_destruction_0(int, int)
+  0.00      0.00     0.00        1     0.00     0.00  factorial(int)
+
+			Call graph
+
+
+granularity: each sample hit covers 4 byte(s) no time propagated
+
+index % time    self  children    called     name
+                0.00    0.00       1/1           _GLOBAL__sub_I__Z9factoriali [10]
+[8]      0.0    0.00    0.00       1         __static_initialization_and_destruction_0(int, int) [8]
+-----------------------------------------------
+                                  19             factorial(int) [9]
+                0.00    0.00       1/1           main [6]
+[9]      0.0    0.00    0.00       1+19      factorial(int) [9]
+                                  19             factorial(int) [9]
+-----------------------------------------------
+
+Index by function name
+
+   [8] __static_initialization_and_destruction_0(int, int) [9] factorial(int)
