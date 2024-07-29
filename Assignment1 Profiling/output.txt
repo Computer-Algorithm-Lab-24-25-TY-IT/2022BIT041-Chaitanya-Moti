@@ -1,0 +1,505 @@
+Generated Array:
+[6583, 2689, 1689, 5992, 9435, 4495, 9058, 3397, 914, 2181, 5586, 1565, 3005, 7278, 1666, 6918, 4247, 8994, 2115, 8259, 3934, 2512, 7700, 2962, 3934, 8126, 7996, 9116, 9520, 6686, 9940, 6103, 5726, 1628, 8446, 5160, 6122, 3855, 8556, 3388, 6035, 494, 4952, 5391, 7771, 2969, 2308, 2018, 1962, 775, 6628, 5896, 9638, 679, 8857, 3571, 8805, 6852, 2687, 8324, 9889, 8978, 778, 1966, 606, 5575, 7125, 3079, 9430, 2033, 6466, 1816, 8878, 7770, 7207, 3000, 738, 5866, 1369, 2700, 6640, 4348, 4947, 6277, 5027, 155, 9848, 183, 7007, 8886, 4858, 3247, 7863, 1988, 5213, 4820, 7562, 8689, 4251, 6991, ]
+
+Number: 6583
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 2689
+Odd/Even: Odd
+Prime: Yes
+Factorial: 0
+
+Number: 1689
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 5992
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 9435
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 4495
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 9058
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 3397
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 914
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 2181
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 5586
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 1565
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 3005
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 7278
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 1666
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 6918
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 4247
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 8994
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 2115
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 8259
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 3934
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 2512
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 7700
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 2962
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 3934
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 8126
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 7996
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 9116
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 9520
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 6686
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 9940
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 6103
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 5726
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 1628
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 8446
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 5160
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 6122
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 3855
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 8556
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 3388
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 6035
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 494
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 4952
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 5391
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 7771
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 2969
+Odd/Even: Odd
+Prime: Yes
+Factorial: 0
+
+Number: 2308
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 2018
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 1962
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 775
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 6628
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 5896
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 9638
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 679
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 8857
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 3571
+Odd/Even: Odd
+Prime: Yes
+Factorial: 0
+
+Number: 8805
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 6852
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 2687
+Odd/Even: Odd
+Prime: Yes
+Factorial: 0
+
+Number: 8324
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 9889
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 8978
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 778
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 1966
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 606
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 5575
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 7125
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 3079
+Odd/Even: Odd
+Prime: Yes
+Factorial: 0
+
+Number: 9430
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 2033
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 6466
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 1816
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 8878
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 7770
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 7207
+Odd/Even: Odd
+Prime: Yes
+Factorial: 0
+
+Number: 3000
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 738
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 5866
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 1369
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 2700
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 6640
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 4348
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 4947
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 6277
+Odd/Even: Odd
+Prime: Yes
+Factorial: 0
+
+Number: 5027
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 155
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 9848
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 183
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 7007
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 8886
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 4858
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 3247
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 7863
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 1988
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 5213
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 4820
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 7562
+Odd/Even: Even
+Prime: No
+Factorial: 0
+
+Number: 8689
+Odd/Even: Odd
+Prime: Yes
+Factorial: 0
+
+Number: 4251
+Odd/Even: Odd
+Prime: No
+Factorial: 0
+
+Number: 6991
+Odd/Even: Odd
+Prime: Yes
+Factorial: 0
+
+Prefix Sum: 652669
+Average: 5181.57
